@@ -4,7 +4,7 @@
 
 # Estatística com python - testes de hipóteses
 
-Turma Online On34 | Python | Semana 13 | 2024 | <a href="https://www.linkedin.com/in/nataliabpo/" target="_blank" rel="noopener noreferrer">Professora Natalia Oliveira</a>
+Turma Online On34 | Python | Semana 10 | 2024 | <a href="https://www.linkedin.com/in/nataliabpo/" target="_blank" rel="noopener noreferrer">Professora Natalia Oliveira</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
