@@ -6,7 +6,6 @@
 
 Turma Online On34 | Python | Semana 10 | 2024 | <a href="https://www.linkedin.com/in/stefanygbsilva/" target="_blank" rel="noopener noreferrer">Professora Stefany Gracy</a>
 
-<br>
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
@@ -14,7 +13,6 @@ Antes de começar, vamos organizar nosso setup.
 * Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
 * [Add outras intrucoes caso necessario]
 
-</br>
 
 ## Índice
 
