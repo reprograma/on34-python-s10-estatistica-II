@@ -41,7 +41,7 @@ Antes de começar, vamos organizar nosso setup.
     - [**2.3 Erros Tipo I e Tipo II**](capitulos/testes_pyhton.md#23-erros-tipo-i-e-tipo-ii)
     - [**2.4 Níveis de Significância**](capitulos/testes_pyhton.md#24-niveis-de-significancia)
     - [**2.5 Interpretação dos Resultados**](capitulos/testes_pyhton.md#25-interpretacao-dos-resultados)
-    - [**2.6 Em Resumo**](capitulos/testes_pyhton.md#26-em-resumo))
+    - [**2.6 Em Resumo**](capitulos/testes_pyhton.md#26-em-resumo)
 
 - **3. Testes Individuais**
     - **3.1 Teste t** 
